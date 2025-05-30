@@ -70,7 +70,7 @@ export default function Navbar() {
           <Link href="/" className="text-gray-700 hover:text-indigo-600" onClick={() => setIsOpen(false)}>Home</Link>
           <Link href="#programs" className="text-gray-700 hover:text-indigo-600" onClick={() => setIsOpen(false)}>Programs</Link>
           <Link href="#about" className="text-gray-700 hover:text-indigo-600" onClick={() => setIsOpen(false)}>About</Link>
-          <Link href="#contact" className="text-gray-700 hover:text-indigo-600" onClick={() => setIsOpen(false)}>Contact</Link>
+          <Link href="#contact" className="text-gray-700 hover:text-indigo-600" onClick={() => setIsOpen(false)}>Contadqct</Link>
         </div>
       </div>
 
